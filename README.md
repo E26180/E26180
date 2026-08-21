@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ahmet 👋
 
-<!--
-**E26180/E26180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science with Cyber Security student at the University of York, progressing to Year 2 after completing International Year One.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in software development, cybersecurity and embedded systems
+- Building practical projects with Python and Java
+- Developing my Linux, Raspberry Pi and microcontroller skills
+- Preparing for internship and Year in Industry opportunities
+
+## Current focus
+
+- Algorithms and data structures
+- Object-oriented programming
+- Cybersecurity fundamentals
+- Linux and embedded systems
+- Writing clear, tested and documented code
+
+## Technologies
+
+`Python` `Java` `Git` `GitHub` `Linux` `Raspberry Pi` `Arduino`
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ahmet-baykoz-6897b635b/)
