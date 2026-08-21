@@ -23,4 +23,5 @@ Computer Science with Cyber Security student at the University of York, progress
 
 ## Connect
 
+- [Portfolio](https://e26180.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/ahmet-ege-baykoz-6897b635b/)
