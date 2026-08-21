@@ -1,4 +1,4 @@
-# Hi, I'm Ahmet 👋
+# Hi, I'm Ahmet Ege Baykoz 👋
 
 Computer Science with Cyber Security student at the University of York, progressing to Year 2 after completing International Year One.
 
@@ -23,4 +23,4 @@ Computer Science with Cyber Security student at the University of York, progress
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ahmet-baykoz-6897b635b/)
+- [LinkedIn](https://www.linkedin.com/in/ahmet-ege-baykoz-6897b635b/)
