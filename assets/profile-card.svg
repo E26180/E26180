@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" role="img" aria-label="Ahmet Ege Baykoz - terminal profile card">
+<style>text{font-family:'Courier New', Courier, monospace;font-size:14px;white-space:pre}.art{fill:#5dc9f2} .lbl{fill:#ffffff;font-weight:bold} .val{fill:#5dc9f2} .hdr{fill:#e8384f;font-weight:bold} .dim{fill:#7f8aa6}.cur{animation:blink 1s steps(1) infinite} @keyframes blink{50%{opacity:0}}@keyframes w0{0%{transform:scaleX(0)}0.000%{transform:scaleX(0);animation-timing-function:steps(29,end)}15.000%{transform:scaleX(1)}26.667%{transform:scaleX(1);animation-timing-function:steps(29,end)}31.667%{transform:scaleX(0)}100%{transform:scaleX(0)}} #c0{transform-box:fill-box;transform-origin:left center;animation:w0 12.0s infinite}@keyframes k0{0%{transform:translateX(0);opacity:0}0.000%{transform:translateX(0);opacity:0}0.000%{transform:translateX(0);opacity:1;animation-timing-function:steps(29,end)}15.000%{transform:translateX(243.6px)}26.667%{transform:translateX(243.6px);animation-timing-function:steps(29,end)}31.667%{transform:translateX(0);opacity:1}33.325%{opacity:1}33.333%{opacity:0}100%{opacity:0}} #k0{animation:k0 12.0s infinite}@keyframes w1{0%{transform:scaleX(0)}33.333%{transform:scaleX(0);animation-timing-function:steps(27,end)}48.333%{transform:scaleX(1)}60.000%{transform:scaleX(1);animation-timing-function:steps(27,end)}65.000%{transform:scaleX(0)}100%{transform:scaleX(0)}} #c1{transform-box:fill-box;transform-origin:left center;animation:w1 12.0s infinite}@keyframes k1{0%{transform:translateX(0);opacity:0}33.325%{transform:translateX(0);opacity:0}33.333%{transform:translateX(0);opacity:1;animation-timing-function:steps(27,end)}48.333%{transform:translateX(226.8px)}60.000%{transform:translateX(226.8px);animation-timing-function:steps(27,end)}65.000%{transform:translateX(0);opacity:1}66.658%{opacity:1}66.667%{opacity:0}100%{opacity:0}} #k1{animation:k1 12.0s infinite}@keyframes w2{0%{transform:scaleX(0)}66.667%{transform:scaleX(0);animation-timing-function:steps(27,end)}81.667%{transform:scaleX(1)}93.333%{transform:scaleX(1);animation-timing-function:steps(27,end)}98.333%{transform:scaleX(0)}100%{transform:scaleX(0)}} #c2{transform-box:fill-box;transform-origin:left center;animation:w2 12.0s infinite}@keyframes k2{0%{transform:translateX(0);opacity:0}66.658%{transform:translateX(0);opacity:0}66.667%{transform:translateX(0);opacity:1;animation-timing-function:steps(27,end)}81.667%{transform:translateX(226.8px)}93.333%{transform:translateX(226.8px);animation-timing-function:steps(27,end)}98.333%{transform:translateX(0);opacity:1}99.992%{opacity:1}100.000%{opacity:0}100%{opacity:0}} #k2{animation:k2 12.0s infinite}</style>
+<defs>
+<clipPath id="cp0"><rect id="c0" x="0" y="416" width="243.6" height="22"/></clipPath>
+<clipPath id="cp1"><rect id="c1" x="0" y="416" width="226.8" height="22"/></clipPath>
+<clipPath id="cp2"><rect id="c2" x="0" y="416" width="226.8" height="22"/></clipPath>
+</defs>
+<rect width="900" height="470" rx="12" fill="#0b1120"/>
+<path d="M0 12a12 12 0 0 1 12-12h876a12 12 0 0 1 12 12v22H0z" fill="#141c30"/>
+<circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="17" r="6" fill="#27c93f"/>
+<text x="450.0" y="22" text-anchor="middle" class="dim" style="font-size:13px">ahmet@github: ~</text>
+<text x="26" y="82" class="art">          .-=======-.</text>
+<text x="26" y="99" class="art">        .'  .-----.  '.</text>
+<text x="26" y="116" class="art">       /   /       \   \</text>
+<text x="26" y="133" class="art">      |   |         |   |</text>
+<text x="26" y="150" class="art">      |   |         |   |</text>
+<text x="26" y="167" class="art">   .--'---'---------'---'--.</text>
+<text x="26" y="184" class="art">   |  ::::::::::::::::::::  |</text>
+<text x="26" y="201" class="art">   |  ::::::::.--.::::::::  |</text>
+<text x="26" y="218" class="art">   |  :::::::/ () \:::::::  |</text>
+<text x="26" y="235" class="art">   |  ::::::::\  /::::::::  |</text>
+<text x="26" y="252" class="art">   |  :::::::::||:::::::::  |</text>
+<text x="26" y="269" class="art">   |  :::::::::||:::::::::  |</text>
+<text x="26" y="286" class="art">   |  ::::::::::::::::::::  |</text>
+<text x="26" y="303" class="art">   |  ::::::::::::::::::::  |</text>
+<text x="26" y="320" class="art">   '------------------------'</text>
+<text x="330" y="66" class="hdr">ahmet@github</text>
+<text x="330" y="84" class="dim">----------------------------------------</text>
+<text x="330" y="106"><tspan class="lbl">Role:</tspan><tspan class="val" x="456.0">cs with cyber security student</tspan></text>
+<text x="330" y="127"><tspan class="lbl">University:</tspan><tspan class="val" x="456.0">university of york (grad 2029)</tspan></text>
+<text x="330" y="148"><tspan class="lbl">Focus:</tspan><tspan class="val" x="456.0">application &amp; cloud security</tspan></text>
+<text x="330" y="169"><tspan class="lbl">Stack.Code:</tspan><tspan class="val" x="456.0">python, java</tspan></text>
+<text x="330" y="190"><tspan class="lbl">Stack.Web:</tspan><tspan class="val" x="456.0">html, css, javascript</tspan></text>
+<text x="330" y="211"><tspan class="lbl">Environment:</tspan><tspan class="val" x="456.0">linux, git, github</tspan></text>
+<text x="330" y="232"><tspan class="lbl">Hardware:</tspan><tspan class="val" x="456.0">raspberry pi, arduino, soldering</tspan></text>
+<text x="330" y="253"><tspan class="lbl">Learning:</tspan><tspan class="val" x="456.0">networking, linux, wireshark, tryhackme</tspan></text>
+<text x="330" y="274"><tspan class="lbl">Projects:</tspan><tspan class="val" x="456.0">pusula, pi-health-monitor, security-notes</tspan></text>
+<text x="330" y="295"><tspan class="lbl">Status:</tspan><tspan class="val" x="456.0">seeking a 2027-28 industrial placement</tspan></text>
+<text x="330" y="316"><tspan class="lbl">Contact.Web:</tspan><tspan class="val" x="456.0">e26180.github.io</tspan></text>
+<rect x="330" y="341" width="20" height="14" rx="2" fill="#0b1120" stroke="#2a3550"/>
+<rect x="356" y="341" width="20" height="14" rx="2" fill="#e8384f" stroke="#2a3550"/>
+<rect x="382" y="341" width="20" height="14" rx="2" fill="#3ddc84" stroke="#2a3550"/>
+<rect x="408" y="341" width="20" height="14" rx="2" fill="#ffd166" stroke="#2a3550"/>
+<rect x="434" y="341" width="20" height="14" rx="2" fill="#4d8cff" stroke="#2a3550"/>
+<rect x="460" y="341" width="20" height="14" rx="2" fill="#b16cff" stroke="#2a3550"/>
+<rect x="486" y="341" width="20" height="14" rx="2" fill="#39e0d0" stroke="#2a3550"/>
+<rect x="512" y="341" width="20" height="14" rx="2" fill="#e8e8e8" stroke="#2a3550"/>
+<text x="26" y="410" class="hdr">┌──(ahmet㉿github)-[~]</text>
+<text x="26" y="432" class="hdr">└─$ </text>
+<g transform="translate(61.6,0)"><g clip-path="url(#cp0)"><text x="0" y="432" class="val">cs with cyber security @ york</text></g><g id="k0"><rect class="cur" x="0" y="419" width="8" height="16" fill="#ffffff"/></g></g>
+<g transform="translate(61.6,0)"><g clip-path="url(#cp1)"><text x="0" y="432" class="val">learning networking &amp; linux</text></g><g id="k1"><rect class="cur" x="0" y="419" width="8" height="16" fill="#ffffff"/></g></g>
+<g transform="translate(61.6,0)"><g clip-path="url(#cp2)"><text x="0" y="432" class="val">seeking a 2027-28 placement</text></g><g id="k2"><rect class="cur" x="0" y="419" width="8" height="16" fill="#ffffff"/></g></g>
+</svg>
