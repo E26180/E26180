@@ -18,7 +18,9 @@ Second-year student at the University of York, studying BSc (Hons) Computer Scie
 
 I write up my hands-on labs and study notes in [**security-notes**](https://github.com/E26180/security-notes):
 
+- 🧱 [Network Lab #2: UFW firewall – blocking and allowing a web server](https://github.com/E26180/security-notes/blob/main/labs/2026-10-11-network-lab-2-ufw-firewall.md)
 - 🧪 [Network Lab #1: HTTP server and TCP handshake in Wireshark](https://github.com/E26180/security-notes/blob/main/labs/2026-10-09-network-lab-1-http-wireshark.md)
+- 🐧 [Linux and networking commands](https://github.com/E26180/security-notes/blob/main/notes/2026-10-11-linux-networking-commands.md)
 - 📘 [TryHackMe Pre Security: data representation, encoding and LAN basics](https://github.com/E26180/security-notes/blob/main/notes/2026-10-10-tryhackme-pre-security.md)
 
 **Roadmap:** networking and Linux → web security (OWASP Top 10) → secure development and cloud security
