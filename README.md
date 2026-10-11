@@ -65,3 +65,9 @@ An AI-assisted student productivity application that I am developing and refinin
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0b1120?style=flat-square&logo=raspberrypi&logoColor=5dc9f2)
 ![Arduino](https://img.shields.io/badge/Arduino-0b1120?style=flat-square&logo=arduino&logoColor=5dc9f2)
 ![Wireshark](https://img.shields.io/badge/Wireshark%20(learning)-0b1120?style=flat-square&logo=wireshark&logoColor=e8384f)
+
+## 🐍 Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/E26180/E26180/output/github-snake-dark.svg" alt="Snake animation eating my GitHub contribution graph" />
+</p>
