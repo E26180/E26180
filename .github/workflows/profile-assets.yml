@@ -1,0 +1,75 @@
+name: Update profile assets
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # The last published assets are kept as a fallback, so a flaky widget API never breaks the README.
+      - name: Fetch previously published assets
+        uses: actions/checkout@v4
+        with:
+          ref: output
+          path: previous
+        continue-on-error: true
+
+      - name: Fetch stat and repo cards
+        env:
+          GH_USER: ${{ github.repository_owner }}
+        run: |
+          mkdir -p dist
+          API="https://github-readme-stats.vercel.app/api"
+          THEME="bg_color=0b1120&title_color=5dc9f2&text_color=c9d1d9&icon_color=e8384f&border_color=2a3550&border_radius=12"
+          STREAK="background=0b1120&border=2a3550&stroke=2a3550&ring=e8384f&fire=e8384f&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=5dc9f2&sideLabels=5dc9f2&dates=7f8aa6&border_radius=12"
+
+          fetch() {
+            local name="$1" url="$2" tmp
+            tmp="$(mktemp)"
+            if curl -fsSL --retry 3 --retry-delay 5 --max-time 30 "$url" -o "$tmp" \
+              && grep -q '<svg' "$tmp" \
+              && ! grep -qiE 'something went wrong|could not fetch|failed to|rate limit|too many requests' "$tmp"; then
+              mv "$tmp" "dist/$name"
+              echo "Updated $name"
+            elif [ -f "previous/$name" ]; then
+              cp "previous/$name" "dist/$name"
+              echo "::warning::Could not refresh $name, kept the previous version"
+            else
+              echo "::warning::Could not fetch $name and no previous version exists"
+            fi
+          }
+
+          fetch top-langs.svg "$API/top-langs/?username=$GH_USER&layout=donut&langs_count=6&$THEME"
+          fetch streak.svg "https://streak-stats.demolab.com/?user=$GH_USER&$STREAK"
+          for repo in pi-health-monitor daily-wellness-tracker IY4101-Shape-Management-Assignment e26180.github.io; do
+            fetch "pin-$repo.svg" "$API/pin/?username=$GH_USER&repo=$repo&description_lines_count=2&$THEME"
+          done
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#e8384f
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#e8384f
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
