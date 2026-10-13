@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/E26180/E26180/main/assets/hero.svg" alt="MacBook screen showing Ahmet Ege Baykoz, BSc Computer Science with Cyber Security at the University of York, next to an animated cyber dragon" width="100%" />
+  <img src="https://raw.githubusercontent.com/E26180/E26180/main/assets/macbook.svg" alt="MacBook screen showing Ahmet Ege Baykoz, BSc Computer Science with Cyber Security at the University of York" width="620" />
 </p>
 
 <p align="center">
