@@ -27,6 +27,8 @@
 .cur{animation:blink 1s steps(1) infinite}
 @keyframes blink{50%{opacity:0}}
 .dot{animation:pulse 2s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.draw{stroke-dashoffset:0}.ch{fill-opacity:1}
+.row,.fillin,.eye{opacity:1}.glow{opacity:.5}.rain{transform:translateY(-90px)}}
 </style>
 <defs>
 <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081028"/><stop offset=".55" stop-color="#0d2650"/><stop offset="1" stop-color="#123a6b"/></linearGradient>

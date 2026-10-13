@@ -83,6 +83,8 @@ css = f"""
 .cur{{animation:blink 1s steps(1) infinite}}
 @keyframes blink{{50%{{opacity:0}}}}
 .dot{{animation:pulse 2s ease-in-out infinite}}
+@media (prefers-reduced-motion:reduce){{*{{animation:none!important}}.draw{{stroke-dashoffset:0}}.ch{{fill-opacity:1}}
+.row,.fillin,.eye{{opacity:1}}.glow{{opacity:.5}}.rain{{transform:translateY(-90px)}}}}
 """
 
 add(f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{W}" height="{H}" '
