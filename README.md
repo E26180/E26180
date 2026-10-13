@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/E26180/E26180/main/assets/hero.svg" alt="MacBook screen showing Ahmet Ege Baykoz, BSc Computer Science with Cyber Security at the University of York, next to an animated cyber dragon" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://e26180.github.io/"><img src="https://img.shields.io/badge/Portfolio-e26180.github.io-5dc9f2?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0b1120" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ahmet-ege-baykoz-6897b635b/"><img src="https://img.shields.io/badge/LinkedIn-Ahmet%20Ege%20Baykoz-5dc9f2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1120" alt="LinkedIn" /></a>
   <a href="https://github.com/E26180/security-notes"><img src="https://img.shields.io/badge/Security%20Notes-learning%20log-e8384f?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0b1120" alt="Security Notes" /></a>
