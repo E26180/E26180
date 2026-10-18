@@ -39,6 +39,7 @@ Second-year **BSc (Hons) Computer Science with Cyber Security** student at the *
 I write up my hands-on labs and study notes in [**security-notes**](https://github.com/E26180/security-notes):
 
 - 🛠️ [Project 1: Network & Firewall Lab (overview of all labs)](https://github.com/E26180/security-notes/tree/main/projects/network-and-firewall-lab)
+- 📡 [Network Lab #5: DHCP and DNS on the wire](https://github.com/E26180/security-notes/blob/main/labs/2026-10-18-network-lab-5-dhcp-dns-capture.md)
 - 🔗 [Network Lab #4: ARP, from IP address to MAC address](https://github.com/E26180/security-notes/blob/main/labs/2026-10-16-network-lab-4-arp.md)
 - 🌐 [Network Lab #3: Subnetting, DHCP and DNS on a real host](https://github.com/E26180/security-notes/blob/main/labs/2026-10-13-network-lab-3-subnetting-dhcp-dns.md)
 - 🧱 [Network Lab #2: UFW firewall – blocking and allowing a web server](https://github.com/E26180/security-notes/blob/main/labs/2026-10-11-network-lab-2-ufw-firewall.md)
