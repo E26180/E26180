@@ -39,6 +39,7 @@ Second-year **BSc (Hons) Computer Science with Cyber Security** student at the *
 I write up my hands-on labs and study notes in [**security-notes**](https://github.com/E26180/security-notes):
 
 - 🛠️ [Project 1: Network & Firewall Lab (overview of all labs)](https://github.com/E26180/security-notes/tree/main/projects/network-and-firewall-lab)
+- 🧱 [Network Lab #7: TCP traceroute and UFW deny vs reject](https://github.com/E26180/security-notes/blob/main/labs/2026-10-30-network-lab-7-tcp-traceroute-and-ufw-deny-reject.md)
 - 🪟 [Windows Lab #2: Services, Security event logs and UAC](https://github.com/E26180/security-notes/blob/main/labs/2026-10-28-windows-lab-2-services-event-logs-uac.md)
 - 🐧 [Linux Lab #2: Processes, services and system logs](https://github.com/E26180/security-notes/blob/main/labs/2026-10-27-linux-lab-2-processes-services-logs.md)
 - 🧭 [Network Lab #6: Routing, traceroute and TTL](https://github.com/E26180/security-notes/blob/main/labs/2026-10-22-network-lab-6-routing-traceroute-ttl.md)
