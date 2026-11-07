@@ -39,6 +39,7 @@ Second-year **BSc (Hons) Computer Science with Cyber Security** student at the *
 I write up my hands-on labs and study notes in [**security-notes**](https://github.com/E26180/security-notes):
 
 - 🛠️ [Project 1: Network & Firewall Lab (overview of all labs)](https://github.com/E26180/security-notes/tree/main/projects/network-and-firewall-lab)
+- 🌐 [Web Lab #1: HTTP with curl -v, headers, status codes and cookies](https://github.com/E26180/security-notes/blob/main/labs/2026-11-07-web-lab-1-http-curl-cookies-wireshark.md)
 - 🔑 [Network Lab #9: SSH key login, SSH handshake in Wireshark and UFW deny vs reject](https://github.com/E26180/security-notes/blob/main/labs/2026-11-07-network-lab-9-ssh-key-login-wireshark-ufw-deny-reject.md)
 - 🐧 [Linux Lab #3: Bash pipes, redirection and an SSH log report script](https://github.com/E26180/security-notes/blob/main/labs/2026-11-02-linux-lab-3-bash-pipes-redirection-ssh-logs.md)
 - 🔐 [Network Lab #8: SSH, UFW port 22 and authentication logs](https://github.com/E26180/security-notes/blob/main/labs/2026-10-31-network-lab-8-ssh-openssh-ufw-auth-logs.md)
