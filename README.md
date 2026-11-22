@@ -40,6 +40,7 @@ I write up my hands-on labs and study notes in [**security-notes**](https://gith
 
 - 🐍 [Project 2: SSH Authentication Log Parser (Python)](https://github.com/E26180/ssh-auth-log-parser)
 - 🛠️ [Project 1: Network & Firewall Lab (overview of all labs)](https://github.com/E26180/security-notes/tree/main/projects/network-and-firewall-lab)
+- 🔒 [Network Lab #10: HTTPS, TLS 1.3 and Wireshark](https://github.com/E26180/security-notes/blob/main/labs/2026-11-22-network-lab-10-https-tls-1-3-wireshark-sslkeylogfile.md)
 - 🌐 [Web Lab #3: HTTP GET vs POST with curl -v and Wireshark](https://github.com/E26180/security-notes/blob/main/labs/2026-11-20-web-lab-3-http-get-post-curl-wireshark.md)
 - 🍪 [Web Lab #2: Cookie flags HttpOnly and Secure with curl -v](https://github.com/E26180/security-notes/blob/main/labs/2026-11-18-web-lab-2-cookie-flags-httponly-secure-curl.md)
 - 🌐 [Web Lab #1: HTTP with curl -v, headers, status codes and cookies](https://github.com/E26180/security-notes/blob/main/labs/2026-11-07-web-lab-1-http-curl-cookies-wireshark.md)
